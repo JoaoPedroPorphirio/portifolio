@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Lilita+One&family=Lobster&family=Pacifico&family=Yanone+Kaffeesatz:wght@600&display=swap');
+
+
+body{
+    background-color: #b9abab;  
+
+}
+
+.titulo{
+    text-decoration: none;
+    justify-content: center;
+    font-size: 25px; 
+    text-align: center;
+    font-style: 'Kanit', sans-serif;
+}
+  
+.paragrafos {
+    font-family: 'Lilita One', cursive;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    justify-content: center;
+    font-size: 25px; 
+    text-align: center;
+}
+
+.link_botoes {
+    display: flex;
+    text-decoration: none;
+    max-width: 55px;
+    border-radius: 10px;
+    padding: 0px;  
+    align-items: center;  
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+
+
+
+.botoes{
+display: flex;
+text-decoration: none;
+align-items: center;
+justify-content: center;
+font-style: italic;
+font-size: 25px;
+align-items: center;  
+justify-content: space-between;
+text-align: center;
+margin: auto;
+padding: auto;
+border: 1px solid black; 
+border-radius: 100px;
+background-color: beige;
+}
+
+.imagem{
+    height: 100px ;
+    display: flex;
+    margin-left: 715px;
+}
+
+
+   
+
+footer{
+display: flex;
+align-items: center;
+justify-content: center;
+font-style: italic;
+font-size: 25px;
+align-items: center;  
+justify-content: center;
+text-align: center;
+align-content: center;
+flex-direction: column;
+margin: auto;
+padding: auto;
+border: 1px solid black; 
+border-radius: 100px;
+background-color: beige;
+}
+
+.foto{
+    height: 250px ;
+    width: 250px;
+    display: flex;
+    margin-left: 600px;
+
+}
